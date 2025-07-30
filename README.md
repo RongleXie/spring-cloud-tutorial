@@ -1,4 +1,4 @@
-# Spring Cloud Tutorial 《Spring Cloud 教程》
+# Spring Cloud Tutorial 《跟老卫学Spring Cloud开发》
 
 ![](images/spring-cloud-logo.png)
 
